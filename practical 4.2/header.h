@@ -1,0 +1,6 @@
+#ifndef PRACTICAL_4_2_HEADER_H
+#define PRACTICAL_4_2_HEADER_H
+
+void runProgram();
+
+#endif
